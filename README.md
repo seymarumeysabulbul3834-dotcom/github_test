@@ -6,3 +6,4 @@ my first repository to learn git and github
 learn git
 learn how to use github
 improve my first project
+today ı started  learn how to use git and github
